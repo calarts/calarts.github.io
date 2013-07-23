@@ -1,4 +1,4 @@
-# Jekyll-Bootstrap
+# calarts
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
 
@@ -44,3 +44,7 @@ The master and gh-pages branch do not share the same ancestry. Please treat them
 ## License
 
 [MIT](http://opensource.org/licenses/MIT)
+
+### CalArts Code
+This is a code repository for the California Institute of the Arts. The first  repositories will be related to classes taught in the school of critical studies by douglas goodwin. 
+
