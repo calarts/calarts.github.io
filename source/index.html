@@ -1,0 +1,30 @@
+---
+layout: default
+---
+ 
+<div>
+{% assign index = true %}
+<article role="article">
+<div id="blog-archives">
+  {% for post in site.posts reverse %}
+
+  {% capture this_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+  {% unless year == this_year %}
+    {% assign year = this_year %}
+    <h2>{{ year }}</h2>
+  {% endunless %}
+    <article>
+      {% include archive_post.html %}
+    </article>
+  {% endfor %}
+</div>
+</article>
+</div>
+
+<aside class="sidebar">
+  {% if site.blog_index_asides.size %}
+    {% include_array blog_index_asides %}
+  {% else %}
+    {% include_array default_asides %}
+  {% endif %}
+</aside>

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://calarts.github.io/sitemap.xml 
