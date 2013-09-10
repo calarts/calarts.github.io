@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[calarts.github.io]]></title>
-  <link href="http://calarts.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: misc | calarts.github.io]]></title>
+  <link href="http://calarts.github.io/blog/categories/misc/atom.xml" rel="self"/>
   <link href="http://calarts.github.io/"/>
   <updated>2013-08-02T19:28:34-07:00</updated>
   <id>http://calarts.github.io/</id>
