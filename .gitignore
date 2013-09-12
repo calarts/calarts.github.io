@@ -11,3 +11,5 @@ Thumbs.db
 _site/
 
 .sass-cache
+
+crash.log
