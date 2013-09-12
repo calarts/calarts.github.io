@@ -1,46 +1,15 @@
-<!doctype html>
-<html>
-  <head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
-    <title>Calarts.github.io by calarts</title>
+---
+layout: layout
+title: "Posts"
+---
 
-    <link rel="stylesheet" href="stylesheets/styles.css">
-    <link rel="stylesheet" href="stylesheets/pygment_trac.css">
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        <h1>Calarts.github.io</h1>
-        <p>calarts</p>
-
-
-        <p class="view"><a href="https://github.com/calarts">View My GitHub Profile</a></p>
-
-      </header>
-      <section>
-        <h1>
-<a name="calarts" class="anchor" href="#calarts"><span class="octicon octicon-link"></span></a>calarts</h1>
-
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2012-1104-CalArts03-.jpg/800px-2012-1104-CalArts03-.jpg" alt="the parking lot"></p>
-
-<h2>
-<a name="all-that-glitters-fall-2013" class="anchor" href="#all-that-glitters-fall-2013"><span class="octicon octicon-link"></span></a>All That Glitters, Fall 2013</h2>
-
-<ol>
-<li><a href="https://github.com/calarts/calarts.github.io/wiki/CSSM234">course wiki</a></li>
-<li><a href="https://trello.com/b/oJPSDQY2">Question board</a></li>
-</ol>
-      </section>
-      <footer>
-        <p><small>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
-      </footer>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-    
-  </body>
-</html>
+<section class="content">
+  <h1 class="thin">POSTS</h1>
+  <ul class="listing">
+    {% for post in site.posts %}
+    <li>
+      <span>{{ post.date | date: "%B %e, %Y" }}</span> <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>
