@@ -6,3 +6,5 @@ gem 'jekyll'
 
 gem 'rmagick'
 
+gem 'nanoc'
+gem 'adsf'
