@@ -10,22 +10,22 @@ output_dir: output
 
 meta_data:
   # Default title, that is added to an item's own title
-  title: Untitled website
+  title: calarts.github.io
 
   # Default author of a page
-  author: Arjan van der Gaag
+  author: calarts
 
   # E-mail address used in contact information, etc.
-  author_email: arjan@arjanvandergaag.nl
+  author_email: dgoodwin@calarts.edu
 
   # Default keywords to use when an item does not specify its own
   keywords: 'keyword1, keyword2'
 
   # Default description to use when an item does not specify its own
-  description: Undescribed website.
+  description: calarts @github
 
   # Copyright line used in the document header meta tag.
-  copyright: "© copyright 2010 Arjan van der Gaag. All rights reserved."
+  copyright: "This work by <a xmlns:cc='http://creativecommons.org/ns#' href='http://calarts.github.io' property='cc:attributionName' rel='cc:attributionURL'>calarts.github.io</a> is licensed under a <a rel='license' href='http://creativecommons.org/licenses/by-nc-sa/3.0/deed.en_US'>Creative Commons Attribution-NonCommercial-ShareAlike 3.0 Unported License</a>"
 
   # Tracking code for Google Analytics. Specifying this will include the
   # tracking code in your site's head section.
@@ -36,13 +36,13 @@ meta_data:
 
 # The base URL for the website, for use in sitemaps etc. Something like
 # http://domain.tld
-base_url: http://domain.tld
+base_url: http://calarts.github.io
 
 # The path on the base URL users should be sent to when accessing the feed.
 # This gets rewritten to point at your feedburner_url option, which will
 # in turn know the location of the real URL.
 feed_url: /feed
-feedburner_url: http://feeds.feedburner.com/MyFeed
+feedburner_url: http://feeds.feedburner.com/calarts
 
 # Configure the robots.txt file for this site.
 # Setting 'default' to true-ish will use sensible defaults. If you
