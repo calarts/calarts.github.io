@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>calarts.github.io</title>
+ <link href="http://calarts.github.io/atom.xml" rel="self"/>
+ <link href="http://calarts.github.io/"/>
+ <updated>2013-09-12T12:06:33-07:00</updated>
+ <id>http://calarts.github.io</id>
+ <author>
+   <name>CalArts</name>
+ </author>
+
+ 
+ <entry>
+   <title>New UP Version</title>
+   <link href="http://calarts.github.io/posts/new-up-version"/>
+   <updated>2013-04-04T00:00:00-07:00</updated>
+   <id>http://calarts.github.io/posts/new-up-version</id>
+   <content type="html">&lt;p&gt;So I decided to release a new &lt;a href=&quot;https://github.com/caarlos0/up&quot;&gt;UP&lt;/a&gt; version. Changes include:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Bootstrap 3.0.0;&lt;/li&gt;
+&lt;li&gt;Last Font-Awesome version;&lt;/li&gt;
+&lt;li&gt;Improved Makefile and Rakefile;&lt;/li&gt;
+&lt;li&gt;Pygments for syntax highlight;&lt;/li&gt;
+&lt;li&gt;Bootstrap collapse plugin (navbar is now fully responsive);&lt;/li&gt;
+&lt;li&gt;Minor tweaks.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;&lt;img src=&quot;http://f.cl.ly/items/3S2m1X2I1V0s0E2P1s38/Captura%20de%20Tela%202013-04-08%20%C3%A0s%2000.37.30.png&quot; alt=&quot;Up 2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;So, update it if you want! It shall be easy, since I was doing it in my
+blog, and then import it back to &lt;a href=&quot;https://github.com/caarlos0/up&quot;&gt;UP&lt;/a&gt;. If you have any issues, you can
+ping me at twitter or other social network, or even email me.&lt;/p&gt;
+
+&lt;p&gt;The general update guide is:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Read the &lt;a href=&quot;https://github.com/caarlos0/up/blob/bs3/readme.markdown&quot;&gt;readme&lt;/a&gt;;&lt;/li&gt;
+&lt;li&gt;Replace &lt;code&gt;Rakefile&lt;/code&gt; and &lt;code&gt;makefile&lt;/code&gt; with the new ones;&lt;/li&gt;
+&lt;li&gt;Copy the &lt;code&gt;package.json&lt;/code&gt;;&lt;/li&gt;
+&lt;li&gt;replace &lt;code&gt;_assets&lt;/code&gt; folder;&lt;/li&gt;
+&lt;li&gt;check the differences in default layout and apply it.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;The whole list of differences can be found &lt;a href=&quot;https://github.com/caarlos0/up/compare/gh-pages...bs3&quot;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;Hope you like this new version!&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Up</title>
+   <link href="http://calarts.github.io/posts/up"/>
+   <updated>2012-12-13T00:00:00-08:00</updated>
+   <id>http://calarts.github.io/posts/up</id>
+   <content type="html">&lt;p&gt;Up is a clean and beautiful &lt;a href=&quot;http://getbootstrap.com&quot;&gt;Bootstrap&lt;/a&gt; based layout
+for &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;Jekyll&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is designed to be an easy layout to modify for your own blog. It was
+based on &lt;a href=&quot;http://zachholman.com/&quot;&gt;zachholman&amp;rsquo;s&lt;/a&gt; blog themes: the &amp;ldquo;old&amp;rdquo; one, now
+opensourced as &lt;a href=&quot;http://github.com/holman/left&quot;&gt;left&lt;/a&gt;, and also in his actual
+theme, that&amp;rsquo;s not opensource (I believe), but I steal some ideas anyway. I also
+took something from &lt;a href=&quot;https://github.com/plusjade/jekyll-bootstrap&quot;&gt;jekyll-bootstrap&lt;/a&gt;,
+and, of course, I&amp;rsquo;m using &lt;a href=&quot;https://github.com/twitter/bootstrap&quot;&gt;bootstrap&lt;/a&gt; as
+a base for all the thing.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://i.imgur.com/4bKG5.png&quot; class=&quot;post&quot; alt=&quot;Up&quot; width=&quot;40%&quot; heigth=&quot;40%&quot; /&gt;&lt;/p&gt;
+
+&lt;h2&gt;Installation&lt;/h2&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Install Jekyll: &lt;code&gt;gem install jekyll&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fork this repository&lt;/li&gt;
+&lt;li&gt;Rename it to &lt;code&gt;YOUR-USER.github.com&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Clone it: &lt;code&gt;git clone https://github.com/YOUR-USER/YOUR-USER.github.com&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Run the jekyll server in the blog folder: &lt;code&gt;rake preview&lt;/code&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;p&gt;You should have a server up and running locally at &lt;a href=&quot;http://localhost:4000&quot;&gt;http://localhost:4000&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Customization&lt;/h2&gt;
+
+&lt;p&gt;Next you&amp;rsquo;ll want to change a few things. The list of files you may want to
+change is the following:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/caarlos0/up/blob/master/_config.xml&quot;&gt;_config.yml&lt;/a&gt;: Put
+your config there, almost everything will be up and running.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/caarlos0/up/blob/master/about.html&quot;&gt;about.yml&lt;/a&gt;: Well, that&amp;rsquo;s
+about you, I&amp;rsquo;ll gonna change it if I am you&amp;hellip; OH WAIT!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/caarlos0/up/blob/master/CNAME&quot;&gt;CNAME&lt;/a&gt;: If you&amp;rsquo;re using
+this on GitHub Pages with a custom domain name, you&amp;rsquo;ll want to change this
+to be the domain you&amp;rsquo;re going to use. All that should be in here is a
+domain name on the first line and nothing else (like: &lt;code&gt;example.com&lt;/code&gt;).&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/caarlos0/up/blob/master/favicon.ico&quot;&gt;favicon.ico&lt;/a&gt;: This
+is a smaller version of my gravatar for use as the icon in your browser&amp;rsquo;s
+address bar. You should change it to whatever you&amp;rsquo;d like.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/caarlos0/up/blob/master/apple-touch-icon.png&quot;&gt;apple-touch-icon.png&lt;/a&gt;:
+Again, this is my gravatar, and it shows up in iOS and various other apps
+that use this file as an &amp;ldquo;icon&amp;rdquo; for your site.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+&lt;h2&gt;Deployment&lt;/h2&gt;
+
+&lt;p&gt;You should deploy with &lt;a href=&quot;http://pages.github.com&quot;&gt;GitHub Pages&lt;/a&gt;- it&amp;rsquo;s just
+easier.&lt;/p&gt;
+
+&lt;p&gt;All you should have to do is rename your repository on GitHub to be
+&lt;code&gt;username.github.com&lt;/code&gt;. Since everything is on the &lt;code&gt;gh-pages&lt;/code&gt; branch, you
+should be able to see your new site at &lt;a href=&quot;http://username.github.com&quot;&gt;http://username.github.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2&gt;Licensing&lt;/h2&gt;
+
+&lt;p&gt;This is &lt;a href=&quot;https://github.com/caarlos0/up/blob/master/LICENSE&quot;&gt;MIT&lt;/a&gt; with no
+added caveats, so feel free to use this on your site without linking back to
+me or using a disclaimer or anything silly like that.&lt;/p&gt;
+
+&lt;p&gt;If you&amp;rsquo;d like give &lt;a href=&quot;http://github.com/caarlos0&quot;&gt;me&lt;/a&gt;,
+&lt;a href=&quot;http://github.com/holman&quot;&gt;holman&lt;/a&gt;
+(from &lt;a href=&quot;http://github.com/holman/left&quot;&gt;left&lt;/a&gt; layout),
+&lt;a href=&quot;https://github.com/plusjade&quot;&gt;plusjade&lt;/a&gt;
+(from &lt;a href=&quot;https://github.com/plusjade/jekyll-bootstrap&quot;&gt;jekyll-bootstrap&lt;/a&gt;),
+&lt;a href=&quot;https://github.com/fat&quot;&gt;fat&lt;/a&gt; and &lt;a href=&quot;https://github.com/mdo&quot;&gt;mdo&lt;/a&gt; (from
+&lt;a href=&quot;https://github.com/twitter/bootstrap&quot;&gt;bootstrap&lt;/a&gt;) credit somewhere on your
+all-new blog or tweet a shout out to us, well hey, sure we&amp;rsquo;ll take it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+
+</feed>
