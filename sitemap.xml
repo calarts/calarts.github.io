@@ -10,6 +10,16 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://calarts.github.io/2013/</loc>
+  <lastmod>2013-09-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/2013/index.html</loc>
+  <lastmod>2013-09-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://calarts.github.io/archive.html</loc>
   <lastmod>2013-09-27</lastmod>
   <priority>0.5000</priority>
@@ -46,6 +56,11 @@
  </url>
  <url>
   <loc>http://calarts.github.io/listings/index.html</loc>
+  <lastmod>2013-09-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/posts/home.html</loc>
   <lastmod>2013-09-27</lastmod>
   <priority>0.5000</priority>
  </url>
