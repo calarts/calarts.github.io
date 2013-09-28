@@ -14,6 +14,6 @@
 ## All That Glitters, Fall 2013
 
 * [course wiki](https://github.com/calarts/calarts.github.io/wiki/CSSM234)
-* [question board](https://trello.com/b/oJPSDQY2)
+* [question board](https://trello.com/b/TifE01DO/questions)
 
 
