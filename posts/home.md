@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: PAGES, LABS
 .. date: 2013/09/27 23:21:00
 .. title: home
 .. slug: home
