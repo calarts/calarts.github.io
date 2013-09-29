@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: PAGES, LABS
+.. tags: PAGES
 .. date: 2013/09/27 23:21:00
 .. title: home
 .. slug: home
@@ -9,7 +9,7 @@
 
 # calarts.github.io
 
-![the parking lot](https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/2012-1104-CalArts03-.jpg/800px-2012-1104-CalArts03-.jpg)
+![haloween](https://dl.dropboxusercontent.com/u/805506/_helium/CIA-20081031-1120.jpg)
 
 ## All That Glitters, Fall 2013
 
