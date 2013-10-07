@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://calarts.github.io/</loc>
-  <lastmod>2013-09-27</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -76,12 +76,17 @@
  </url>
  <url>
   <loc>http://calarts.github.io/posts/home.html</loc>
-  <lastmod>2013-09-29</lastmod>
+  <lastmod>2013-10-07</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/stories/LABS.html</loc>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/stories/helium.html</loc>
-  <lastmod>2013-09-27</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
