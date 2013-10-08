@@ -11,86 +11,51 @@
  </url>
  <url>
   <loc>http://calarts.github.io/2013/</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/2013/index.html</loc>
-  <lastmod>2013-09-27</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/archive.html</loc>
-  <lastmod>2013-09-27</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/categories/</loc>
-  <lastmod>2013-09-28</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/categories/index.html</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/categories/labs.html</loc>
-  <lastmod>2013-09-28</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/categories/pages.html</loc>
-  <lastmod>2013-09-29</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/galleries/</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/galleries/index.html</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/index.html</loc>
-  <lastmod>2013-09-29</lastmod>
+  <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/listings/</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/listings/index.html</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/posts/helium.html</loc>
-  <lastmod>2013-09-27</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://calarts.github.io/posts/home.html</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://calarts.github.io/stories/LABS.html</loc>
+  <loc>http://calarts.github.io/posts/home/</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://calarts.github.io/stories/helium.html</loc>
+  <loc>http://calarts.github.io/stories/</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://calarts.github.io/stories/helium_lab.html</loc>
+  <loc>http://calarts.github.io/stories/helium/</loc>
+  <lastmod>2013-10-07</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/stories/helium_lab/</loc>
   <lastmod>2013-10-07</lastmod>
   <priority>0.5000</priority>
  </url>
