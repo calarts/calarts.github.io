@@ -16,4 +16,5 @@
 * [course wiki](https://github.com/calarts/calarts.github.io/wiki/CSSM234)
 * [question board](https://trello.com/b/TifE01DO/questions)
 
-
+## Google Glass, Fall 2013
+* [interventions](https://github.com/calarts/calarts.github.io/wiki/glass)
