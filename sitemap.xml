@@ -7,56 +7,57 @@
  <url>
   <loc>http://calarts.github.io/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/2013/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/archive.html</loc>
-  <lastmod>2013-10-15</lastmod>
-  <priority>0.5000</priority>
+  <lastmod>2014-01-23</lastmod>
  </url>
  <url>
   <loc>http://calarts.github.io/categories/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/categories/pages.html</loc>
-  <lastmod>2013-10-15</lastmod>
-  <priority>0.5000</priority>
+  <lastmod>2014-01-23</lastmod>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/categories/pages.xml</loc>
+  <lastmod>2014-01-23</lastmod>
  </url>
  <url>
   <loc>http://calarts.github.io/galleries/</loc>
-  <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
+  <lastmod>2014-01-23</lastmod>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/galleries/rss.xml</loc>
+  <lastmod>2014-01-23</lastmod>
  </url>
  <url>
   <loc>http://calarts.github.io/listings/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/posts/home/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://calarts.github.io/rss.xml</loc>
+  <lastmod>2014-01-23</lastmod>
  </url>
  <url>
   <loc>http://calarts.github.io/stories/</loc>
-  <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
+  <lastmod>2014-01-14</lastmod>
  </url>
  <url>
   <loc>http://calarts.github.io/stories/helium/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://calarts.github.io/stories/helium_lab/</loc>
   <lastmod>2013-10-07</lastmod>
-  <priority>0.5000</priority>
  </url>
 </urlset>
