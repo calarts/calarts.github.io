@@ -9,14 +9,14 @@
 
 # calarts.github.io
 
-![haloween](https://dl.dropboxusercontent.com/u/805506/_helium/CIA-20081031-1120.jpg)
+![Halloween](https://dl.dropboxusercontent.com/u/805506/_helium/CIA-20081031-1120.jpg)
 
 ## The Pink Mirror, Spring 2014
 
 * [course wiki](https://github.com/calarts/calarts.github.io/wiki/CSSM315)
 * [question board](https://trello.com/b/eXzKtlS4/pink-mirror-weekly)
 
-## Cracking Life's Code: Information Theory in the Life Sciences, Spring 2014
+## Cracking Life's Code, Spring 2014
 
 * [course wiki](https://github.com/calarts/calarts.github.io/wiki/CSSM231)
 * [question board](https://trello.com/b/RclZh5UN/cracking-the-code-weekly)
